@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple To Do</string>
+    <string name="add">ADD</string>
+    <string name="clear">CLEAR</string>
+    <string name="input_list_item">Input List Item</string>
+    <string name="input_index_position">Input Position</string>
+    <string name="delete">DELETE</string>
+    <string-array name="spinnerItems">
+        <item>Add</item>
+        <item>Delete</item>
+    </string-array>
+</resources>
